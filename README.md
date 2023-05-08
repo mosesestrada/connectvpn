@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/ZkHXe65.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/00Q7OP4.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Connect to a network using a VPN</h1>
@@ -61,7 +61,7 @@ Right click the VPN and click properties.
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/IETW4X6.png" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/H0xRfE5.jpg" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 </p>
