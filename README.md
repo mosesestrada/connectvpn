@@ -17,15 +17,15 @@ Connecting to a corporate network using a Virtual Private Network (VPN) is not o
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<br />If you are going to be adjusting the wireless mode or speeds for your router please check out this <a href="https://www.linksys.com/support-article?articleNum=186891">link</a>. For this demonstration we will not be adjusting the wireless network mode but I'm including the wireless standards just for reference in case you you need it.
+<br />From your desktop right-click Start and then select Settings.
 
  <br/>
-<img src="https://i.imgur.com/RRgeyhG.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/GEE5G1g.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
-First step is login to your router via the URL. Check your router's docuemntation if you've never done it. You can always check the router manufacturer's homepage as well.
+Select Network & Internet.
  <br/>
-<img src="https://i.imgur.com/45F4lLG.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/ozSF5cF.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 Here I clicked on the "Wireless" tab and was able to change the SSID(wireless name). When you are finished click apply then save.
@@ -34,27 +34,42 @@ Here I clicked on the "Wireless" tab and was able to change the SSID(wireless na
 <img src="https://i.imgur.com/tyK6Iy8.png" height="80%" width="80%" alt="router"/>
 <br />
 <br />
-From the wireless security tab I was able to change the wireless security mode to WPA from the drop down. For authentication I will be using WPA2 and AES for encryption. I can also change my shared key here which is required to login to this network. I will hit apply then save.
+1) Click the VPN tab on the left side of the screen. 2) Click "Add a VPN connection".
 <br/>
-<img src="https://i.imgur.com/kQxMfk0.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/FHK0aXD.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
-Under the administration tab I can change the login username and password for this router. It is a crucial to change this information to better secure your router. When finished hit apply and save. Reboot the router.
+Check with your administrator for the VPN login information and enter it here. Press ok when finished.
  <br/>
-<img src="https://i.imgur.com/5YBFiPR.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/nBRNxXk.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
-That's it we are finished. All that's left is to locate the wireless network and login to it with the settings we set earlier.
+Now to configure the VPN's secruity properties. Click "Change adapter options".
  <br/>
-<img src="https://i.imgur.com/Mee9klt.png" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/2CQ8y01.png" height="80%" width="80%" alt="vpn"/>
+<br />
+<br />
+Right click the VPN and click properties.
+ <br/>
+<img src="https://i.imgur.com/344KT2r.png" height="80%" width="80%" alt="vpn"/>
+<br />
+<br />
+ *consult with your network administrator before changing any of these settings*
+ 1) Click the security tab. 2) Change the authentication to use EAP(extensible authentication protocol) . Hit ok when finished.
+ <br/>
+<img src="https://i.imgur.com/O5BjzTZ.png" height="80%" width="80%" alt="vpn"/>
+<br />
+<br />
+Click on your VPN. Connect to VPN. Enter credientials and sign in. We are finished.
+ <br/>
+<img src="https://i.imgur.com/IETW4X6.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/lKYaogA.jpg" height="80%" width="80%" alt="router"/>
+<img src="https://i.imgur.com/IETW4X6.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
- 
 </p>
 
 <!--
