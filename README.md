@@ -28,18 +28,12 @@ Select Network & Internet.
 <img src="https://i.imgur.com/ozSF5cF.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
-Here I clicked on the "Wireless" tab and was able to change the SSID(wireless name). When you are finished click apply then save.
-
- <br/>
-<img src="https://i.imgur.com/tyK6Iy8.png" height="80%" width="80%" alt="router"/>
-<br />
-<br />
 1) Click the VPN tab on the left side of the screen. 2) Click "Add a VPN connection".
 <br/>
 <img src="https://i.imgur.com/FHK0aXD.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
-Check with your administrator for the VPN login information and enter it here. Press ok when finished.
+Check with your administrator for the VPN login information and enter it here. Click save when finished.
  <br/>
 <img src="https://i.imgur.com/nBRNxXk.png" height="80%" width="80%" alt="vpn"/>
 <br />
