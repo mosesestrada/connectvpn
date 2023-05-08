@@ -60,7 +60,7 @@ Right click the VPN and click properties.
 <img src="https://i.imgur.com/O5BjzTZ.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
-Click on your VPN. Connect to VPN. Enter credientials and sign in. We are finished.
+1)Connect to VPN. 2)Enter credientials and sign in. We are finished.
  <br/>
 <img src="https://i.imgur.com/IETW4X6.png" height="80%" width="80%" alt="vpn"/>
 <br />
