@@ -55,7 +55,7 @@ Right click the VPN and click properties.
 <br />
 <br />
  *consult with your network administrator before changing any of these settings*
- 1) Click the security tab. 2) Change the authentication to use EAP(extensible authentication protocol) . Hit ok when finished.
+ 1) Click the security tab. 2) Change the authentication to use EAP(extensible authentication protocol). 3) Hit ok when finished.
  <br/>
 <img src="https://i.imgur.com/O5BjzTZ.png" height="80%" width="80%" alt="vpn"/>
 <br />
