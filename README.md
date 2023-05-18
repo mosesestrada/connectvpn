@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/D4uJA0b.jpg" height="80%" width="80%" alt="VPN logo"/>
+ <img src="https://i.imgur.com/5C0fuwd.jpg" height="80%" width="80%" alt="VPN logo"/>
 </p>
 
 <h1>Connect to a network using a VPN</h1>
@@ -20,27 +20,27 @@ Connecting to a corporate network using a Virtual Private Network (VPN) is not o
 <br />From your desktop right-click Start and then select Settings.
 
  <br/>
-<img src="https://i.imgur.com/GEE5G1g.png" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/HkdLLh4.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 Select Network & Internet.
  <br/>
-<img src="https://i.imgur.com/ozSF5cF.png" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/GN6u8c1.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 1) Click the VPN tab on the left side of the screen. 2) Click "Add a VPN connection".
 <br/>
-<img src="https://i.imgur.com/FHK0aXD.png" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/0Fcy6t5.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 Check with your administrator for the VPN login information and enter it here. Click save when finished.
  <br/>
-<img src="https://i.imgur.com/nBRNxXk.png" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/spCSx1l.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 Now to configure the VPN's secruity properties. Click "Change adapter options".
  <br/>
-<img src="https://i.imgur.com/2CQ8y01.png" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/l1m5lYR.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 Right click the VPN and click properties.
@@ -56,12 +56,12 @@ Right click the VPN and click properties.
 <br />
 1)Connect to VPN. 2)Enter credientials and sign in. We are finished.
  <br/>
-<img src="https://i.imgur.com/IETW4X6.png" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/ictt0fA.png" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/H0xRfE5.jpg" height="80%" width="80%" alt="vpn"/>
+<img src="https://i.imgur.com/cKcEaIJ.jpg" height="80%" width="80%" alt="vpn"/>
 <br />
 <br />
 </p>
