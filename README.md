@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/5C0fuwd.jpg" height="80%" width="80%" alt="VPN logo"/>
+ <img src="https://i.imgur.com/hZU0Ebr.jpg" height="80%" width="80%" alt="VPN logo"/>
 </p>
 
 <h1>Connect to a network using a VPN</h1>
